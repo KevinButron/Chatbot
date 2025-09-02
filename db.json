@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Kevin",
+      "cuenta": "123456789",
+      "saldo": 2500.75,
+      "fecha_contratacion": "2024-05-10"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan Pérez",
+      "cuenta": "987654321",
+      "saldo": 1320.50,
+      "fecha_contratacion": "2024-06-15"
+    }
+  ]
+}
